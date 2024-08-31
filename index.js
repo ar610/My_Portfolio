@@ -22,3 +22,7 @@ $(".page1 .navbar a").click(function(){
     }
     
 });
+
+document.getElementById('downloadButton').addEventListener('click', function() {
+    document.getElementById('downloadLink').click();
+});

@@ -481,6 +481,9 @@ text-shadow: 2px 2px #193824;
     font-size: 20px;
     font-style: normal;
 }
+#downloadLink{
+    color: #ffffff;
+}
 
 
 /********************************** Page 3 Responsive *********************************************/
